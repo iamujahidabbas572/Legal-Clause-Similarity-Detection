@@ -26,7 +26,7 @@ Batch size = 64, Learning rate = 1e-3, Optimizer = Adam, Epochs = 5.
 -  **Incorrectly Similar:** “The lender may terminate…” ↔ “The borrower may terminate…” (role confusion)
 
 ##  How to Run
-1. Open `baseline_models.ipynb` in Colab.
+1. Open `DL_A2_22I1969.ipynb` in Colab.
 2. Mount Google Drive and set dataset path.
 3. Run all cells to train and evaluate both models.
 
